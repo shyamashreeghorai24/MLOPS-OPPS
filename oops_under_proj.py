@@ -66,7 +66,7 @@ class Chatbook:
 
 
 # Run program
-obj = Chatbook()
+# obj = Chatbook()
 
 
 

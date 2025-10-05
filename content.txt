@@ -8,4 +8,8 @@
     (a + b)
     > code reusability
     >debugging
-    >easy to colab
+    >easy to colab  
+5. End to end project (chatbook class) 
+   >encapsulationi
+   >getter and setter
+   >static method   
