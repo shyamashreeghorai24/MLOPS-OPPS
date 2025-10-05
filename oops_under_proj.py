@@ -13,12 +13,13 @@ class Chatbook:
         # self.menu()
     def get_name(self):
         return self.__name  
-    @staticmethod
+    
     def set_name(self,value):
         self.__name = value 
     @staticmethod   
     def get_id(self):
         return Chatbook.__user_id
+    @staticmethod
     def set_id(val):
         Chatbook.__user_id = val  
 
