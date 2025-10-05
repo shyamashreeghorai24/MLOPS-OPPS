@@ -10,6 +10,10 @@
     >debugging
     >easy to colab  
 5. End to end project (chatbook class) 
-   >encapsulationi
-   >getter and setter
-   >static method   
+   >function vs method
+   >encapsulation
+   >getter and setter -> to get the hidden attribute and to set the hidden attibute
+   >static method
+   >Inheritance
+
+   
