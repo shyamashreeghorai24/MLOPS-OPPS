@@ -15,5 +15,10 @@
    >getter and setter -> to get the hidden attribute and to set the hidden attibute
    >static method
    >Inheritance
+   >Inheritance code example
+   >Why inheritance is needed? (code reuseability, patent has no access to chile class)
+   >constructure overloading and methos overloading>super keyword(can be used only inside class, can not access variable/attributes, used only inside child class)
+   >types of inheritance -1. Single inheritance 2. Multiple Inheritance<diamond problen> 3. Multilevel 4. Hybrid
+   
 
    
